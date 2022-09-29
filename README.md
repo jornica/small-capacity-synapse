@@ -1,4 +1,4 @@
-# Small Cost Synapse
+# Small Capacity Synapse
 Small Capacity Synapse (SCS) is an [Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/) sandbox environment that offers a ready-to-go small Synapse environment. Costs depends on the actual usage of storage and compute capacity. SCS is not intended for production purposes. 
 
 ## 1 Building blocks 
