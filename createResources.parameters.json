@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "createDedicatedSQLPool": {
-      "value": true
+      "value": false
     },
     "createApacheSparkPool": {
-      "value": true
+      "value": false
     },
     "createDataExplorerPool": {
-      "value": true
+      "value": false
     }
   }
 }
